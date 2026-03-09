@@ -6,4 +6,6 @@ backend/uploads/*.*
 backend/outputs/*.*
 uploads/
 outputs/
+backend/__pycache__/
+backend/processor/__pycache__/
 
